@@ -1,0 +1,11 @@
+﻿  main.c
+D:\桌面\c\指针\main.c(19,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+D:\桌面\c\指针\main.c(19,9): warning C4313: “printf”: 格式字符串中的“%d”与“int *”类型的参数 1 冲突
+D:\桌面\c\指针\main.c(20,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+D:\桌面\c\指针\main.c(20,9): warning C4313: “printf”: 格式字符串中的“%d”与“int *”类型的参数 1 冲突
+D:\桌面\c\指针\main.c(22,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+D:\桌面\c\指针\main.c(22,9): warning C4313: “printf”: 格式字符串中的“%d”与“char *”类型的参数 1 冲突
+D:\桌面\c\指针\main.c(23,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+D:\桌面\c\指针\main.c(23,9): warning C4313: “printf”: 格式字符串中的“%d”与“char *”类型的参数 1 冲突
+D:\桌面\c\指针\main.c(18,1): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+  指针.vcxproj -> D:\桌面\c\指针\x64\Debug\指针.exe
